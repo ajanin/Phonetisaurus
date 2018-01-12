@@ -1,3 +1,8 @@
+# Don't use this
+
+This is just a copy of AdolfVonKleist/Phonetisaurus, kept here to have a stable version just in case.
+
+
 ## Phonetisaurus G2P ##
 [![Build Status](https://travis-ci.org/AdolfVonKleist/Phonetisaurus.svg?branch=master)](https://travis-ci.org/AdolfVonKleist/Phonetisaurus)
 
